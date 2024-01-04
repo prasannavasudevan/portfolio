@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'RGB Color Game using Javascript',
-    description: "Designed and implemented an interactive RGB Color Game using HTML, CSS, and JavaScript. Developed a dynamic application that generates random RGB colors for users to match by selecting the precise pixel values.",
-      image: '/images/3.jpg',
+    title: 'Virtual piano using DOM',
+    description: "Designed and implemented a Virtual Piano using DOM (Document Object Model) manipulation, enabling users to play musical notes through an interactive web interface. The project incorporated dynamic features by integrating random color generation in real-time on the piano keys while playing.",
+      image: '/images/piano.png',
       tags: ['Html', 'CSS', 'Javascript'],
-    source: 'https://google.com',
-    output: 'https://google.com',
+    source: 'https://github.com/prasannavasudevan/Projects-DOM-/tree/main/Virtual%20Piano(DOM)',
+    output: 'https://github.com/prasannavasudevan/Projects-DOM-/blob/main/Virtual%20Piano(DOM)/readme.md',
     id: 2,
   },
   {
