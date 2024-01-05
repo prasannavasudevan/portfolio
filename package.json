@@ -3,10 +3,10 @@
   "homepage": "https://prasannavasudevan.github.io/portfolio/",
   "version": "0.1.0",
   "scripts": {
-    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && next dev",
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && next build",
-    "export": "set NODE_OPTIONS=--openssl-legacy-provider && next export",
-    "start": "set NODE_OPTIONS=--openssl-legacy-provider && next start"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "cross-env": "^7.0.3",
