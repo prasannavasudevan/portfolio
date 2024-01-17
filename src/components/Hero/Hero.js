@@ -17,7 +17,7 @@ const Hero = (props) => (
         <SectionText>
         Full-stack developer / Front-end-developer / Back-end-developer
         </SectionText>
-        <Button><a href='https://drive.google.com/file/d/1KOzbhYDXj3R8O66n6xf7HQSeFBayFGzF/view?usp=drive_link'  style={{color:"white" }}>Resume</a></Button>
+        <Button><a href='https://drive.google.com/file/d/1Q7gT4Net-F7Fk8aGOoef76zpA8a6t_Ig/view?usp=drive_link'  style={{color:"white" }}>Resume</a></Button>
       </LeftSection>
     </Section>
   </>
